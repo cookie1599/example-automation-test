@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Example API Test Swagger</name>
+   <name>First test using record and playback</name>
    <tag></tag>
-   <UUID>9a899f4b-4072-4472-818d-9c85f6c90957</UUID>
+   <UUID>4a3be09a-225e-420c-9fcf-9c8ca267c4be</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -24,5 +24,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>WEBSERVICE</type>
+   <type>WEBUI</type>
 </Project>
